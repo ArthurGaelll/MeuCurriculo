@@ -1,7 +1,68 @@
+
+body{
+    background-color: blanchedalmond;
+}
+
+.fundomenu{
+    background-color: #DEB887;
+}
+.fundocard2{
+    background-color: #D2B48C;
+}
+.fundocard{
+    background-color: #FFE4C4;
+
+}
+.fundoaccordion{
+    background-color: #8B4513;
+    color: #DEB887;
+}
 .separa{
     margin-top: 30px;
 }
-h1{
+h2{
  text-align: center;
- font-size: 1.3rem;   
+    
 }
+b{
+    font-size: 1.5rem;
+}
+img{
+    text-align: center;
+}
+.imgg{
+    width: 100%;
+    text-align: center;
+}
+
+.sombra{
+    text-shadow: 2px 2px 5px black;
+}
+
+.gael{
+    width: 30%;
+}
+.rounded-oval {
+    border-radius: 50%;
+    width: 300px; /* Ajuste conforme necessário */
+    height: 300px; /* Ajuste conforme necessário */
+    object-fit: cover; /* Para garantir que a imagem se ajuste corretamente */}
+
+.subtitle{
+    font-size: 1.0rem;
+}
+.gael2{
+    width: 100%;
+}
+.pqueno{
+    font-size: 1.3rem;
+}
+.title{
+    margin-bottom: 2%;
+}
+
+.carrossel{
+        margin-left: 32%;    
+}
+    
+    

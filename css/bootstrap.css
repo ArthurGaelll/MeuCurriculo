@@ -4444,6 +4444,7 @@ textarea.form-control-lg {
 .card-title {
   margin-bottom: var(--bs-card-title-spacer-y);
   color: var(--bs-card-title-color);
+  text-align: center;
 }
 
 .card-subtitle {
@@ -4454,6 +4455,7 @@ textarea.form-control-lg {
 
 .card-text:last-child {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .card-link + .card-link {

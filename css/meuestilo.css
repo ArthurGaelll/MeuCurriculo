@@ -1,6 +1,12 @@
 
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: blanchedalmond;
+}
+.foto{
+    width: 5%;
 }
 
 .fundomenu{
@@ -62,7 +68,7 @@ img{
 }
 
 .carrossel{
-        margin-left: 32%;    
+        margin-left: 25%;    
 }
-    
+     
     

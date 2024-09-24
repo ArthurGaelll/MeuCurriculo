@@ -1,1 +1,1 @@
-# https://arthurgaelll.github.io/MeuCurriculo/
+# https://github.com/ArthurGaelll/MeuCurriculo
